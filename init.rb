@@ -4,7 +4,7 @@
 require 'redmine'
 
 Redmine::Plugin.register :chiliproject_gantt_daynumbers do
-  name 'Quiet Parenttickets'
+  name 'Gantt Daynumbers'
   author 'Alexander Blum'
   description 'This plugin for ChiliProject causes gantt to show daynumbers instead of weeknumbers'
   version '0.1'
